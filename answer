@@ -1,0 +1,8 @@
+1/ Qu'est ce qu'un service web?
+---->Est un protocole d'interface informatique de la famille des technologies web permettant la communication et l'échange de données entre applications et systèmes hétérogènes dans des environnements distribués.
+
+2/ Une API REST, qu'est-ce que c'est ?
+----> Est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. L'architecture REST (Representational State Transfer) a été créée par l'informaticien Roy Fielding
+
+3/
+FastAPI est un framework Web moderne et rapide (haute performance) pour la création d'API avec Python 3.6+ basé sur des conseils de type Python standard.
