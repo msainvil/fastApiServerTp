@@ -32,3 +32,5 @@ def get_items():
 if __name__ == '__main__':
     init()
     uvicorn.run(app,host="127.0.0.1", port=8000)
+
+#lancement du werver uvicorn webserv:app --reload
